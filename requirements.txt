@@ -38,5 +38,5 @@ rjsmin==1.0.12
 singledispatch==3.4.0.3
 six==1.10.0
 sqlparse==0.2.3
-urllib3==1.22
+urllib3==1.26.5
 wrapt==1.10.10
